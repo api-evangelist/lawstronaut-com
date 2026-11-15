@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Lawstronaut provides a legal data infrastructure platform that offers real‑time access to over 115 million laws, regulations, court cases and official guidance across 245+ jurisdictions. Their API and MCP enable AI agents and applications to query up‑to‑date legal information, receive structured metadata, and integrate compliance insights directly into products. The service emphasizes continuous updates, versioning, and point‑in‑time provenance to support reliable legal‑tech solutions.
+Lawstronaut provides a legal data infrastructure for AI systems, offering continuous, structured access to millions of legal documents across over 245 jurisdictions. Their API and MCP enable agents to retrieve up-to-date legislation, regulations, case law, and governmental records, ensuring reliable, provenance‑backed legal information for AI applications.
 
-**Areas:** LegalTech · DataInfrastructure · API · MCP · AI
+**Areas:** LegalTech · AI · DataInfrastructure · Law · APIs
 
 ## Lawstronaut on APIs.io
 
@@ -74,7 +74,7 @@ Everything profiled for Lawstronaut is published on APIs.io rather than in this 
 
 ### APIs (1)
 
-- [Lawstronaut API](https://apis.io/apis/lawstronaut-com/lawstronaut-api/) — Build legal products, internal tools, and AI systems on verified legal data from official sources with the Lawstronaut API.
+- [Lawstronaut API](https://apis.io/apis/lawstronaut-com/lawstronaut-api/) — Lawstronaut provides a legal data infrastructure API for developers to access legislation, regulations, and case law across jurisdictions.
 
 ### Published properties
 
@@ -97,24 +97,22 @@ Published plans, tiers and prices.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://lawstronaut.com/)
-- [Documentation](https://lawstronaut.com/mcp)
-- [Getting started](https://lawstronaut.com/register)
 - [Pricing](https://lawstronaut.com/pricing/lawyers)
 - [Terms of service](https://lawstronaut.com/terms)
 - [Privacy policy](https://lawstronaut.com/privacy)
 
 ## API Evangelist rating
 
-**Kin Score 20.9** — emerging · rubric 0.28.0 · scored 2026-11-15
+**Kin Score 19.8** — emerging · rubric 0.27.0 · scored 2026-11-15
 
 | Facet | Score |
 |---|---|
 | Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 4.8 |
-| Developer ergonomics | 31.0 |
-| Access clarity | 48.5 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 60.0 |
 
 **Agent readiness 3.1** — human-only
 
@@ -143,7 +141,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lawstronaut-com/](https://apis.io/providers/lawstronaut-com/).
 
